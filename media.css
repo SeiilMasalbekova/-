@@ -1,0 +1,1037 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 1200px) {
+  .header-lang {
+    display: none;
+  }
+  .header-icon {
+    display: none;
+  }
+  .header-number {
+    display: none;
+  }
+  #hero {
+    min-height: 140vh;
+  }
+  .vektor1 {
+    display: none;
+  }
+  .vektor2 {
+    display: none;
+  }
+  .hero-dot {
+    display: none;
+  }
+  .trees-left2 img {
+    top: -52px;
+  }
+  .hero-rigth1 {
+    display: none;
+  }
+  .hero-rigth2 {
+    display: none;
+  }
+  .hero-icon span {
+    margin-top: 136px;
+  }
+  #company {
+    min-height: 123vh;
+    padding: 99px 0 0 0;
+  }
+  .hero-text {
+    padding: 140px 0 0 91px;
+  }
+  .top-img1 img {
+    width: 800px;
+}
+.icon1 {
+    position: absolute;
+    right: -207px;
+    bottom: 0;
+}
+.top-img2 img {
+    width: 400px;
+    height: 333px;
+}
+.bottom-img3 img {
+    width: 400px;
+}
+.icon3 {
+    bottom: -13px;
+    right: -119px;
+}
+.icon4 {
+    bottom: -13px;
+    right: -148px;
+}
+.icon5 {
+    bottom: -13px;
+    right: -17px;
+}
+#baytik {
+    min-height: 102vh;
+}
+.baytik_img-2 {
+    left: 421px;
+}
+.baytik-info {
+    width: 440px;
+    height: 382px;
+}
+.flag {
+    bottom: 132px;
+    right: 346px;
+}
+.footer1 {
+    margin: 0 41px 121px 5px;
+}
+.footer-lux {
+    top: 40px;
+    left: 177px;
+}
+.footer3 {
+    margin: 40px 71px 0 90px;
+}
+.left-c {
+    left: 73px;
+    bottom: 32px;
+}
+.footer hr {
+    width: 1200px;
+}
+.cloud-top img {
+    right: 111px;
+}
+}
+@media (max-width: 1024px) {
+    .cloud img {
+        left: 50px;
+    }
+    .cloud-top img {
+        right: 25px;
+    }
+    .hero-text h1 {
+        font-size: 28px;
+    }
+    #hero {
+        min-height: 95vh;
+    }
+    .hero-btn button {
+        font-size: 16px;
+        width: 166px;
+        height: 35px;
+    }
+    .hero-text {
+        padding: 106px 0 0 90px;
+    }
+    .cloud-top img {
+        top: -261px;
+    }
+.cloud img {
+    top: -162px;
+}
+.hero-icon span {
+    margin-top: 172px;
+}
+#company {
+    min-height: 109vh;
+    padding: 153px 0 0 0;
+}
+.company-text p {
+    width: 620px;
+}
+.company-card {
+    width: 800px;
+}
+.company-btn {
+    padding-left: 786px;
+}
+.card-rigth {
+    display: none;
+}
+.top-img1 img {
+    width: 687px;
+}
+.top-img2 img {
+    width: 337px;
+    height: 286px;
+}
+.icon1 {
+    right: -91px;
+    bottom: -10px;
+}
+.icon2 {
+    bottom: -10px;
+    right: -42px;
+}
+.bottom-img3 img {
+    width: 341px;
+}
+.icon3 {
+    right: -62px;
+}
+.icon4 {
+    right: -99px;
+}
+.icon5 {
+    right: 18px;
+}
+#baytik {
+    min-height: 110vh;
+}
+.baytik_img-1 {
+    width: 400px;
+}
+.baytik_img-2 {
+width: 120px;
+left: 281px;
+}
+.firma {
+    flex-wrap: wrap;
+}
+.firma img {
+    margin: 0 26px;
+}
+.footer1 {
+    margin: 0 160px 10px 2px;
+}
+.footer-lux {
+    top: 40px;
+    left: 170px;
+}
+.footer-top {
+    flex-wrap: wrap;
+}
+.footer4 {
+    margin: 40px 174px 50px 0;
+}
+.left-c {
+    left: 69px;
+}
+.footer hr {
+    width: 1024px;
+left: -28px;
+}
+}
+@media (max-width: 992px) {
+    #hero {
+        min-height: 90vh;
+    }
+    .company-text h1 {
+        font-size: 28px;
+    }
+    #company {
+        min-height: 66vh;
+        padding: 108px 0 0 0;
+    }
+    .company-text p {
+        font-size: 16px;
+    }
+    .company-btn button {
+        width: 120px;
+        height: 30px;
+    }
+.card1 img {
+    width: 40px;
+}
+.card2 img {
+    width: 40px;
+}
+.card3 img {
+    width: 40px;
+}
+.card4 img {
+    width: 40px;
+}
+.card1 h5 {
+    width: 111px;
+    font-size: 12px;
+}
+.card2 h5 {
+    font-size: 12px;
+    width: 89px;
+}
+.card3 h5 {
+    width: 149px;
+    font-size: 11px;
+}
+.card4 h5 {
+    width: 185px;
+    font-size: 11px;
+}
+.card1 {
+    width: 136px;
+    height: 134px;
+}
+.card2 {
+    width: 136px;
+    height: 134px;
+}
+.card3 {
+    width: 136px;
+    height: 134px;
+}
+.card4 {
+    width: 136px;
+    height: 134px;
+}
+.company-card {
+    width: 774px;
+}
+.company-btn {
+    padding-left: 655px;
+}
+.top-img1 img {
+    width: 660px;
+}
+.icon1 {
+    right: -56px;
+    bottom: -10px;
+}
+.top-img2 img {
+    width: 331px;
+    height: 274px;
+}
+.bottom-img3 img {
+    width: 330.3px;
+}
+#baytik {
+    min-height: 84vh;
+}
+.baytik-info {
+    width: 391px;
+    height: 359px;
+}
+.baytik-info h3 {
+    width: 306px;
+    font-size: 20px;
+}
+.baytik-name {
+    margin: 15px 0 15px 40px;
+}
+.baytik-name input {
+    width: 274px;
+    height: 49px;
+}
+.baytik-number input {
+    width: 236px;
+    height: 49px;
+}
+.baytik-call button {
+    font-size: 15px;
+    width: 189px;
+    height: 44px;
+}
+.flag {
+    bottom: 132px;
+    right: 292px;
+}
+.footer hr {
+    width: 992px;
+}
+.footer-lux {
+    left: 169px;
+}
+.left-c {
+    left: 68px;
+}
+}
+@media (max-width: 768px) {
+    #hero {
+        min-height: 72vh;
+    }
+    .cloud-top img  {
+width: 300px;
+top: -217px;
+right: 15px;
+    }
+    .cloud img {
+        left: 72px;
+        width: 300px;
+    }
+    .trees-left2 img {
+        width: 140px;
+        top: -52px;
+    }
+    .hero-icon span {
+        margin-top: 89px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    }
+.company-card {
+    flex-wrap: wrap;
+    width: 397px;
+}
+.card2 {
+    width: 151px;
+    height: 134px;
+}
+.card3 {
+    width: 141px;
+    height: 134px;
+}
+.company-btn {
+    padding-left: 277px;
+}
+#company {
+    min-height: 67vh;
+    padding: 60px 0 50px 0;
+}
+.card-docs,
+.card-man {
+    display: none;
+}
+.project-top {
+    flex-direction: column;
+}
+.top-img1 img {
+    width: 768px;
+}
+.icon1 {
+    right: -154px;
+}
+.top-img2 img {
+    width: 768px;
+    height: 500px;
+}
+.icon2 {
+    bottom: -10px;
+    right: -454px;
+}
+.project-bottom {
+    flex-direction: column;
+}
+.bottom-img3 img {
+    width: 768px;
+}
+.icon3 {
+    right: -463px;
+    bottom: -10px;
+}
+.icon4 {
+    right: -502px;
+    bottom: -10px;
+}
+.icon5 {
+    right: -377px;
+    bottom: -10px;
+}
+.baytik_img-1 {
+    width: 300px;
+}
+.baytik_img-2 {
+    width: 92px;
+    left: 209px;
+}
+.main {
+    flex-direction: column;
+}
+.main h2 {
+    padding-top: 25px;
+}
+.firma img {
+    margin: 0 68px;
+}
+.firma-img img {
+    width: 768px;
+}
+.firma-bg {
+    display: none;
+}
+.footer-lux {
+    left: 163px;
+}
+.footer hr {
+    width: 768px;
+    left: -22px;
+}
+.left-c {
+    left: 62px;
+}
+}
+@media (max-width: 576px) {
+    .header img {
+        display: none;
+    }
+    #hero {
+        min-height: 53vh;
+    }
+    .hero-btn button {
+        font-size: 12px;
+        width: 135px;
+        height: 32px;
+    }
+.cloud-top,
+.cloud,
+.trees-left2 {
+    display: none;
+}
+#hero {
+    min-height: 65vh;
+}
+.company-text p {
+    width: 347px;
+}
+.hero-icon span {
+    margin-top: 61px;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+}
+.about {
+    flex-direction: column;
+}
+.about-text h1 {
+    width: 397px;
+    font-size: 33px;
+    padding-bottom: 20px;
+}
+.top-img1 img {
+    width: 576px;
+}
+.icon1 {
+    right: -35px;
+}
+.top-text1 h3 {
+    font-size: 16px;
+}
+.top-icon1 span {
+    font-size: 20px;
+}
+    .top-icon1 h4 {
+        font-size: 20px;
+    }
+    .icon1 span {
+        font-size: 35px;
+        color: #009ee3;
+    }
+    .top-img2 img {
+        width: 576px;
+        height: 294px;
+    }
+    .top-icon2 span {
+        font-size: 20px;
+    }
+    .top-text2 h3 {
+        font-size: 16px;
+    }
+    .top-icon2 h4 {
+        font-size: 20px;
+    }
+    .icon2 {
+        right: -295px;
+    }
+    .icon2 span {
+        font-size: 35px;
+    }
+    .icon3 span {
+        font-size: 35px;
+    }
+    .icon4 span {
+        font-size: 35px;
+    }
+    .icon5 span {
+        font-size: 35px;
+    }
+    .bottom-img3 img {
+        width: 576px;
+    }
+    .icon3 {
+        right: -311px;
+    }
+    .icon4 {
+        right: -344px;
+    }
+    .icon5 {
+        right: -221px;
+    }
+.baytik {
+    flex-direction: column;
+}
+.baytik_img-2 {
+    width: 91px;
+    left: 334px;
+}
+.baytik-info {
+    width: 374px;
+    height: 329px;
+}
+.firma-img img {
+    width: 576px;
+}
+.footer-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer1 {
+    margin: 0 1px 1px 2px;
+}
+.footer-lux {
+    left: 324px;
+}
+.footer3 {
+    margin: 40px 25px 0 90px;
+}
+.footer4 {
+    margin: 40px 14px 50px 0;
+}
+.footer5 {
+    margin: 20px;
+}
+.footer hr {
+    width: 576px;
+    left: -17px;
+}
+.left-c {
+    left: 57px;
+}
+}
+@media (max-width: 451px) {
+    .header-nav a {
+        margin: 0 10px;
+    }
+    .card-dom {
+        padding: 0 1px;
+    }
+    .card-doc {
+        padding: 0 1px;
+    }
+    .top-img1 img {
+        width: 451px;
+    }
+    .top-text1 {
+        bottom: 10px;
+        left: 18px;
+    }
+    .icon1 {
+        right: 18px;
+        bottom: 0;
+    }
+    .icon1 span {
+        font-size: 25px;
+    }
+.top-img2 img {
+    width: 451px;
+    height: 256px;
+}
+.top-text2 {
+    bottom: 10px;
+    left: 20px;
+}
+.icon2 span {
+    font-size: 25px;
+}
+.icon3 span {
+    font-size: 25px;
+}
+.icon4 span {
+    font-size: 25px;
+}
+.icon5 span {
+    font-size: 25px;
+}
+.icon2 {
+    right: -195px;
+    bottom: 0;
+}
+.bottom-img3 img {
+    width: 451px;
+    height: 277px;
+}
+.icon3 {
+    right: -205px;
+    bottom: 0;
+}
+.icon4 {
+    right: -238px;
+    bottom: 0;
+}
+.icon5 {
+    right: -119px;
+    bottom: 0;
+}
+.baytik_img-1 {
+    width: 250px;
+}
+.baytik_img-2 {
+    width: 74px;
+    left: 266px;
+}
+.baytik-info {
+    width: 332px;
+    height: 281px;
+    margin-top: 20px;
+}
+.baytik-info h3 {
+    font-size: 18px;
+}
+.baytik-name input {
+    width: 220px;
+    height: 32px;
+}
+.baytik-number input {
+    width: 182px;
+    height: 32px;
+}
+.flag {
+    bottom: 94px;
+    right: 283px;
+}
+.baytik-call button {
+    font-size: 12px;
+    width: 137px;
+    height: 24px;
+}
+.firma img {
+    margin: 0 15px;
+}
+.firma-img img {
+    width: 451px;
+}
+.footer-lux {
+    left: 261px;
+}
+.footer hr {
+    width: 451px;
+    left: -14px;
+}
+.left-c {
+    left: 54px;
+}
+}
+@media (max-width: 400px) {
+    .company-text p {
+        width: 260px;
+    }
+    .card1 img {
+        width: 30px;
+    }
+    .card2 img {
+        width: 30px;
+    }
+    .card3 img {
+        width: 30px;
+    }
+    .card4 img {
+        width: 30px;
+    }
+    .card1 {
+        width: 101px;
+        height: 111px;
+    }
+    .card2 {
+        width: 131px;
+        height: 111px;
+    }
+    .card3 {
+        width: 121px;
+        height: 111px;
+    }
+    .card4 {
+        width: 101px;
+        height: 111px;
+    }
+.company-text {
+    padding: 20px 0;
+}
+#company {
+    padding: 5px 0 50px 0;
+}
+.company-card {
+    width: 342px;
+}
+.company-btn {
+    padding-left: 221px;
+}
+.card-dom img {
+    width: 30px;
+}
+.card-map img {
+    width: 30px;
+}
+.card-doc img {
+    width: 30px;
+}
+.card-home img {
+    width: 30px;
+}
+.card-dom h4 {
+    font-size: 12px;
+}
+.card-map h4 {
+    font-size: 12px;
+}
+.card-doc h4 {
+    font-size: 12px;
+}
+.card-home h4 {
+    font-size: 12px;
+}
+.card-map {
+    padding: 0 2px;
+}
+.card-home {
+    padding: 0 3px;
+}
+.top-img1 img {
+    width: 400px;
+}
+.top-img2 img {
+    width: 400px;
+}
+.icon2 {
+    right: -151px;
+}
+.bottom-img3 img {
+    width: 400px;
+    height: 277px;
+}
+.icon3 {
+    right: -166px;
+}
+.icon4 {
+    right: -194px;
+}
+.icon5 {
+    right: -68px;
+}
+.baytik_img-2 {
+    width: 74px;
+    left: 241px;
+}
+.baytik-info {
+    width: 306px;
+    height: 257px;
+}
+.flag {
+    bottom: 84px;
+    right: 243px;
+}
+.firma img {
+    margin: 0 34px;
+}
+.firma-img img {
+    width: 400px;
+}
+.footer-lux {
+    left: 236px;
+}
+.footer hr {
+    width: 400px;
+    left: -13px;
+}
+.footer-left {
+    margin: 24px 0 15px 6px;
+}
+.left-c {
+    left: 20px;
+    bottom: 31px;
+}
+.about-text h1 {
+    width: 330px;
+    font-size: 33px;
+    padding-bottom: 20px;
+}
+}
+@media (max-width: 376px) {
+    #header {
+        padding: 11px 0;
+    }
+    .header-nav a {
+        font-size: 12px;
+    }
+    .about-text h1 {
+        width: 267px;
+        font-size: 28px;
+        padding-bottom: 20px;
+    }
+    .top-img1 img {
+        width: 376px;
+    }
+    .top-img2 img {
+        width: 376px;
+    }
+    .icon2 {
+        right: -122px;
+    }
+    .bottom-img3 img {
+        width: 376px;
+        height: 257px;
+    }
+    .icon3 {
+        right: -139px;
+    }
+    .icon4 {
+        right: -166px;
+    }
+.icon5 {
+    right: -43px;
+}
+.baytik_img-2 {
+    left: 230px;
+}
+.flag {
+    bottom: 82px;
+    right: 234px;
+}
+.firma-img img {
+    width: 376px;
+}
+.footer-lux {
+    left: 224px;
+}
+.footer hr {
+    width: 376px;
+    left: -12px;
+}
+.left-c {
+    left: 19px;
+    bottom: 32px;
+}
+}
+@media (max-width: 320px) {
+    .header-nav a {
+        font-size: 10px;
+    }
+    .hero-text {
+        padding: 106px 0 0 61px;
+    }
+    .hero-icon span {
+        margin-top: 11px;
+    }
+    .company-text h1 {
+        font-size: 26px;
+    }
+    .company-text p {
+        font-size: 14px;
+    }
+    .company-btn button {
+        width: 94px;
+        height: 23px;
+    }
+.company-card {
+    flex-direction: column;
+}
+.card1,
+.card4 {
+    padding: 1px;
+}
+.card1 {
+    width: 169px;
+    height: 111px;
+}
+.card3 {
+    width: 131px;
+    height: 111px;
+}
+.card4 {
+    width: 169px;
+    height: 111px;
+}
+.company-btn {
+    padding-left: 77px;
+}
+.about-text {
+    margin: -6px 0 0 -8px;
+}
+.card-dom img {
+    width: 25px;
+}
+.card-map img {
+    width: 25px;
+}
+.card-doc img {
+    width: 25px;
+}
+.card-home img {
+    width: 25px;
+}
+.about-cards {
+    flex-wrap: wrap;
+}
+.card-map {
+    padding: 0px 18px;
+}
+.card-doc {
+    padding: 8px 48px;
+}
+.card-home {
+    padding:8px 0 ;
+}
+.top-img1 img {
+    width: 320px;
+}
+.top-img2 img {
+    width: 320px;
+}
+.icon2 {
+    right: -70px;
+}
+.bottom-img3 img {
+    width: 320px;
+}
+    .icon3 {
+        right: -89px;
+    }
+    .icon4 {
+        right: -117px;
+    }
+    .icon5 {
+        right: 11px;
+    }
+    .baytik_img-2 {
+        left: 202px;
+    }
+    .baytik-info {
+        width: 289px;
+        height: 238px;
+    }
+    .baytik-name input {
+        width: 197px;
+        height: 32px;
+    }
+    .baytik-number input {
+        width: 159px;
+        height: 32px;
+    }
+    .flag {
+        bottom: 72px;
+        right: 199px;
+    }
+    .firma img {
+        margin: 0 15px;
+    }
+    .main h2 {
+        font-size: 25px;
+        font-weight: 400;
+    }
+    .firma-img img {
+        width: 320px;
+    }
+    .footer-lux {
+        left: 196px;
+    }
+    .footer hr {
+        width: 320px;
+        left: -11px;
+    }
+    .left-c {
+        left: 18px;
+        bottom: 34px;
+    }
+    .baytik-info h3 {
+        font-size: 16px;
+        margin-left: 24px;
+        width: 202px;
+    }
+    .company-card {
+        width: 277px;
+    }
+}
